@@ -10,7 +10,7 @@ Feel free to submit a PR for extending to other formats.
 
 ## Usage
 ```python
-from mk_autodoc import MarkdownAPIGenerator, to_md_file
+from md_autogen import MarkdownAPIGenerator, to_md_file
 
 source_folder = 'src'
 github_link = 'https://github.com/raghakot/mkdocs-apidocs/blob/master'
